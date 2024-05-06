@@ -6,6 +6,10 @@
 
 [GitHub](https://github.com/mrjohannchang)
 
+[LeetCode](https://leetcode.com/mrjohannchang/)
+
+[LinkedIn](https://www.linkedin.com/in/mrjohannchang)
+
 [Project Euler](https://projecteuler.net/progress=changyuheng)
 
 ## Personal Sites
